@@ -1,0 +1,6 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+title : "Static Mesh Refinement"
+content: |
+  This shows the nested mesh structure of our simulations.
+image: "images/amr.png"

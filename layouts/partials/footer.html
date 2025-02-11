@@ -1,0 +1,12 @@
+<!-- Footer -->
+<footer class="wrapper style1 align-center">
+    <div class="inner">
+      <p>xMAGNET Collaboration &copy; 2025</p>
+      <span class="footerspacer icon fa-diamond"></span>
+</div>
+</footer>
+
+<!-- FontAwesome JS -->
+{{ range .Site.Params.asset.fontawesome_js -}}
+    <script type="text/javascript" src="{{ . | absURL }}"></script>
+{{- end }}

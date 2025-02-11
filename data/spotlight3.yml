@@ -1,0 +1,7 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "Evolving AGN Jet"
+content: |
+  The AGN jets have a dramatic effect on the magnetic fields in the intracluster medium (ICM).
+image: "images/thin_proj.png"
