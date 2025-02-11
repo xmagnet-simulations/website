@@ -14,13 +14,8 @@ relativeURLs = "true"
 #canonifyURLs = "true"
 
 # Local
-baseURL = "/"
+baseURL = "https://xmagnet-simulations.github.io/website/"
 publishDir = "public"
-
-# Remote
-#baseURL = "https://xmagnet-simulations.github.io/website/"
-#publishDir = "//centos/sites/hugodev/hugostory/"
-
 
 ## -----------------------------------------------
 ## Hugo Built-in Features
