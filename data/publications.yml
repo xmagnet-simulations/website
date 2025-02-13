@@ -1,0 +1,19 @@
+title : "Publications"
+content: |
+  This is a list of xMAGNET publications submitted to scientific journals.
+style: "style1 medium onscroll-fade-in"
+items:
+  # feature item loop
+  - name : "The XMAGNET Exascale MHD simulations of SMBH feedback in galaxy groups and clusters: Overview and preliminary cluster results"
+    content : "We present initial results from extremely well-resolved 3D magnetohydrodynamical simulations of idealized galaxy clusters, conducted using the AthenaPK code on the Frontier exascale supercomputer. These simulations explore the self-regulation of galaxy groups and cool-core clusters by cold gas-triggered active galactic nucleus (AGN) feedback incorporating magnetized kinetic jets..."
+    style : "style2 major fa-chart-bar"
+
+  # feature item loop
+  - name : "XMAGNET: Velocity structure functions of AGN-driven turbulence in the multiphase intracluster medium"
+    content : "We use the fiducial run of XMAGNET, a suite of exascale magneto-hydrodynamical simulations of a cool-core cluster, to compute velocity structure functions."
+    style : "solid style2 major fa-chart-bar"
+    
+  # feature item loop
+  - name : "XMAGNET : The Magnetised AGN - CGM Coupling at Halo Masses ~10^{13.5} solar masses"
+    content : "Coupling between active galactic nuclei (AGNs) and the circumgalactic medium (CGM) is critical to the interplay between radiative cooling and feedback heating in the atmospheres of the universe's most massive galaxies. This paper presents a detailed analysis of numerical simulations showing how magnetic and kinetic AGN feedback interacts with the CGM."
+    style : "solid style2 major fa-chart-bar"

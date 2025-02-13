@@ -1,0 +1,27 @@
+title : "Collaboration Members"
+content: |
+style: "style1 small onscroll-fade-in"
+items:
+  - name : "Philipp Grete"
+    style : "style2 major fa-chart-bar"
+
+  - name : "Brian W. O'Shea"
+    style : "style2 major fa-chart-bar"
+
+  - name : "Forrest W. Glines"
+    style : "style2 major fa-chart-bar"
+
+  - name : "Deovrat Prasad"
+    style : "style2 major fa-chart-bar"
+
+  - name : "Benjamin D. Wibking"
+    style : "style2 major fa-chart-bar"
+
+  - name : "Martin Fournier"
+    style : "style2 major fa-chart-bar"
+
+  - name : "Marcus Bruggen"
+    style : "style2 major fa-chart-bar"
+
+  - name : "Mark Voit"
+    style : "style2 major fa-chart-bar"
