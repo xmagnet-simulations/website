@@ -12,7 +12,7 @@ copyright = "{year}"
 relativeURLs = "false"
 
 # Remote
-baseURL = "https://xmagnet-simulations.github.io/website/"
+baseURL = "https://xmagnet-simulations.github.io/"
 publishDir = "public"
 
 ## -----------------------------------------------
