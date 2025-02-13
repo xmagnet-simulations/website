@@ -2,7 +2,7 @@
 style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
 title : "xMAGNET Simulations"
 subtitle: |
-  The XMAGNET Exascale MHD simulations of SMBH feedback in galaxy groups and clusters
+  The xMAGNET Exascale MHD simulations of SMBH feedback in galaxy groups and clusters
 content : |
   The xMAGNET Simulations are exascale magnetohydrodynamic (MHD) simulations of supermassive black hole feedback in galaxy groups and clusters that couple gas accretion and jet feedback to produce a self-regulating intracluster/circumgalactic medium.
 button:
