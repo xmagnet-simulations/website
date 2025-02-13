@@ -27,8 +27,7 @@ disableKinds = ["taxonomy", "section"]
 
 [Params]
   description = "The xMAGNET AGN Simulations"
-  logo = "images/banner.jpg"
-  favicon = true
+  favicon = false
 
 [Params.asset]
   fontawesome_css = ["css/fontawesome-all.min.css"]

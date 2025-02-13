@@ -15,16 +15,11 @@ relativeURLs = "false"
 baseURL = "/"
 publishDir = "public"
 
-# Remote
-#baseURL = "https://caressofsteel.github.io/demos/hugo/hugo-story/"
-#publishDir = "//centos/sites/hugodev/hugostory/"
-
 ## -----------------------------------------------
 ## Hugo Built-in Features
 ## -----------------------------------------------
 
 disableKinds = ["taxonomy", "section"]
-# googleAnalytics = "G-XXXXXXXXXX"
 
 ## -----------------------------------------------
 ## Site Parameters
@@ -32,8 +27,7 @@ disableKinds = ["taxonomy", "section"]
 
 [Params]
   description = "The xMAGNET AGN Simulations"
-  logo = "images/banner.jpg"
-  favicon = true
+  favicon = false
 
 [Params.asset]
   fontawesome_css = ["css/fontawesome-all.min.css"]
