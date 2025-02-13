@@ -3,7 +3,6 @@
 ## -----------------------------------------------
 title = "xMAGNET Simulations"
 copyright = "{year}"
-
 theme = "hugo-story"
 
 ## -----------------------------------------------
@@ -11,10 +10,9 @@ theme = "hugo-story"
 ## -----------------------------------------------
 
 relativeURLs = "false"
-#canonifyURLs = "true"
 
 # Local
-baseURL = "https://xmagnet-simulations.github.io/website/"
+baseURL = "https://xmagnet-simulations.github.io/"
 publishDir = "public"
 
 ## -----------------------------------------------
@@ -22,7 +20,6 @@ publishDir = "public"
 ## -----------------------------------------------
 
 disableKinds = ["taxonomy", "section"]
-# googleAnalytics = "your-google-analytics-id"
 
 ## -----------------------------------------------
 ## Site Parameters
