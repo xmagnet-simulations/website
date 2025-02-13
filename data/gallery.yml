@@ -33,13 +33,13 @@ pictures:
     button: "Details"
 
   - title: "Time-averaged turbulent power spectra"
-    content: "Median turbulent power spectra (with IQR in shaded regions) of the specific kinetic energy (left), the kinetic energy density (based on $\mathbf{w} = \sqrt{\rho}\mathbf{u}$, center panel), and magnetic energy density (right) between 1.5-2 Gyr for all four simulations. The slopes are just given for reference and do not imply scaling following a certain model or phenomenology."
+    content: "Median turbulent power spectra (with IQR in shaded regions) of the specific kinetic energy (left), the kinetic energy density (center panel), and magnetic energy density (right) between 1.5-2 Gyr for all four simulations. The slopes are just given for reference and do not imply scaling following a certain model or phenomenology."
     image: "images/gallery/fulls/power_spec_avg_1.50-2.00.png"
     thumb: "images/gallery/thumbs/power_spec_avg_1.50-2.00.png"
     button: "Details"
 
   - title: "Instantaneous turbulent power spectra"
-    content: "Instantaneous turbulent power spectra at various times of the specific kinetic energy (left), the kinetic energy density (based on $\mathbf{w} = \sqrt{\rho}\mathbf{u}$, center panel), and magnetic energy density (right) in the fiducial simulation. The raw, i.e., uncompensated, spectra are shown in the top panels whereas the spectra in the bottom panels are compensated by $k^{1.2}$, $k^{1.1}$, and $k^{1.2}$, respectively. The inset in the top right shows the kinetic energy density and magnetic energy density spectra at t=1.86 Gyr on one panel for easier comparison with the axis extents equal to the ones in the larger panels."
+    content: "Instantaneous turbulent power spectra at various times of the specific kinetic energy (left), the kinetic energy density (center panel), and magnetic energy density (right) in the fiducial simulation. The raw, i.e., uncompensated, spectra are shown in the top panels whereas the spectra in the bottom panels are compensated by $k^{1.2}$, $k^{1.1}$, and $k^{1.2}$, respectively. The inset in the top right shows the kinetic energy density and magnetic energy density spectra at t=1.86 Gyr on one panel for easier comparison with the axis extents equal to the ones in the larger panels."
     image: "images/gallery/fulls/power_spec_fid.png"
     thumb: "images/gallery/thumbs/power_spec_fid.png"
     button: "Details"
