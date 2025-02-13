@@ -2,15 +2,14 @@
 ## Basic Configuration
 ## -----------------------------------------------
 
-title = "Hugo Story"
+title = "xMAGNET Simulations"
 copyright = "{year}"
 
 ## -----------------------------------------------
 ## Publish
 ## -----------------------------------------------
 
-relativeURLs = "true"
-#canonifyURLs = "true"
+relativeURLs = "false"
 
 # Local
 baseURL = "/"
@@ -32,17 +31,9 @@ disableKinds = ["taxonomy", "section"]
 ## -----------------------------------------------
 
 [Params]
-  description = "A (modular, highly tweakable) responsive one-page theme for Hugo"
+  description = "The xMAGNET AGN Simulations"
   logo = "images/banner.jpg"
   favicon = true
-
-[Params.social]
-  github = "https://github.com/caressofsteel/"
-  twitter = "https://twitter.com/caressofsteel_"
-  email = "caressofsteel@protonmail.com"
-  instagram = "https://instagram.com"
-  linkedin = "https://linkedin.com"
-  telegram = "https://telegram.org"
 
 [Params.asset]
   fontawesome_css = ["css/fontawesome-all.min.css"]
