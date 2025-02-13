@@ -31,7 +31,17 @@ disableKinds = ["taxonomy", "section"]
 ## Site Parameters
 ## -----------------------------------------------
 
-[Params]
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+	  block = [['\[', '\]']]
+          inline = [['$', '$']]
+
+[params]
+  math = true
 
 [Params.social]
 

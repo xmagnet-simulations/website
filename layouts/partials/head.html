@@ -29,4 +29,8 @@
 		<link rel="stylesheet" href="{{ . | absURL }}">
 	{{- end }}
 
+	{{ if .Param "math" }}
+		{{ partialCached "math.html" . }}
+	{{ end }}
+	
 </head>

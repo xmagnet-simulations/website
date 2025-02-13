@@ -14,6 +14,6 @@ items:
     style : "solid style2 major fa-chart-bar"
     
   # feature item loop
-  - name : "XMAGNET : The Magnetised AGN - CGM Coupling at Halo Masses ~10^{13.5} solar masses"
+  - name : "XMAGNET : The Magnetised AGN - CGM Coupling at Halo Masses $\\sim 10^{13.5} M_{\\odot}$"
     content : "Coupling between active galactic nuclei (AGNs) and the circumgalactic medium (CGM) is critical to the interplay between radiative cooling and feedback heating in the atmospheres of the universe's most massive galaxies. This paper presents a detailed analysis of numerical simulations showing how magnetic and kinetic AGN feedback interacts with the CGM."
     style : "solid style2 major fa-chart-bar"
