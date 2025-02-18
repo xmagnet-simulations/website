@@ -1,0 +1,8 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-center"
+id: "first"
+title : "Cold gas velocity structure"
+content: |
+  This shows the line-of-sight velocity structure of cold gas in a galaxy cluster. (Credit: Martin Fournier.)
+
+  <div style="padding:73.87% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1058030231?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Line-of-sight velocity structure of cold gas in a galaxy cluster (XMAGNET collaboration - Perseus-like cluster)"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
